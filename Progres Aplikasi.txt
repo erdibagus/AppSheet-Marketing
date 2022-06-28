@@ -1,0 +1,40 @@
+# Aktor
+  1. Admin / Manager Pusat
+  2. Manager KPK
+  3. User
+  
+# Menu
+  1. Data Marketing
+    - Data Prospek
+    - Data Survey
+    - Data Penagihan
+    - Data Teleprospek
+    - Data Teletagih
+  2. Data Laporan
+    - Laporan Prospek
+    - Laporan Survey
+    - Laporan Penagihan
+    - Laporan Teleprospek
+    - Laporan Teletagih
+    - Laporan Marketing
+    - Laporan Bulanan
+  3. Data User
+ 
+# Akses
+  1. Admin / Manager Pusat
+    - Semua menu
+  2. Manager KPK
+    - Data Marketing
+      Hanya bisa melihat data dimana manager di tempatkan
+    - Data Laporan
+      * Laporan Marketing
+        Hanya bisa melihat data dimana manager di tempatkan
+      * Laporan Bulanan
+        Hanya bisa melihat data dimana manager di tempatkan
+    - Data User
+      Hanya bisa melihat data dimana manager di tempatkan
+  3. User
+    - Data Marketing
+      Hanya bisa melihat datanya sendiri
+     
+    
